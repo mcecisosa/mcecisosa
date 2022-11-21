@@ -1,5 +1,10 @@
-### Hi there 👋
+![banner readme github - copia](https://user-images.githubusercontent.com/102552376/203079896-90aa308b-6ad8-4bf8-ad20-55b93e0993e0.png)
 
+### Hola! Soy Cecilia Sosa
+
+<h4>Soy Full Stack Web Developer e Ingeniera en Sistemas de Información, apasionada por la programación y la tecnología desde siempre.<h4>
+<h4>Gracias al bootcamp de Henry 💛 descubrí un nuevo mundo IT sobre programación web con nuevas tecnologías y herramientas.<h4>
+<h4>Me considero una persona proactiva, responsable, organizada y detallista, me gusta trabajar en equipo y aprender nuevas tecnologías!<h4>
 <!--
 **mcecisosa/mcecisosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
