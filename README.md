@@ -26,13 +26,10 @@
 
 <h3 align="left">E-commerce Healthy Food:</h3>
   
-<h3 align="left">Countries</h3>
-  
-![landingPage](https://user-images.githubusercontent.com/102552376/203134269-926f8396-3c07-476a-ab89-951a01835e15.jpg)
-![home](https://user-images.githubusercontent.com/102552376/203134317-f4d4a693-cccd-40c1-95c8-8f7a798279cf.jpg)
-![filtrado](https://user-images.githubusercontent.com/102552376/203134343-cc34100f-47cd-4d4a-9d15-d7c5df13185b.jpg)
-![nuevaActividad](https://user-images.githubusercontent.com/102552376/203134393-99493023-d984-456f-a551-a46fbcf790eb.jpg)
-![detalleActividad](https://user-images.githubusercontent.com/102552376/203134423-b11ae952-f515-4596-b517-f41b7e1173ee.jpg)
-
-
+<h3 align="left">Countries</h3>  
+<p align= "center">
+  <img src="https://user-images.githubusercontent.com/102552376/203134317-f4d4a693-cccd-40c1-95c8-8f7a798279cf.jpg" alt="img not found" width="700"/>
+  <img src="https://user-images.githubusercontent.com/102552376/203134393-99493023-d984-456f-a551-a46fbcf790eb.jpg" alt="img not found" width="700"/>
+  <img src="https://user-images.githubusercontent.com/102552376/203134423-b11ae952-f515-4596-b517-f41b7e1173ee.jpg" alt="img not found" width="700"/>
+</p>
   
