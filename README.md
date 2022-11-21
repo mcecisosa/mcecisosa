@@ -4,7 +4,7 @@
 
 
 <h3 align="center">Hola! Soy Cecilia Sosa<h3>
-<h4 align="center">Soy Full Stack Web Developer e Ingeniera en Sistemas de Información.<h4>
+<h3 align="center">Soy Full Stack Web Developer e Ingeniera en Sistemas de Información.<h3>
 <p align="center">Apasionada por la programación y la tecnología desde siempre! Gracias al bootcamp de Henry 💛 descubrí un nuevo mundo IT sobre programación web con nuevas tecnologías y herramientas. Me considero una persona proactiva, responsable, organizada y detallista, me gusta trabajar en equipo y aprender nuevas tecnologías!<p>
 
   <h3 align="left">Me puedes contactar en:</h3>
