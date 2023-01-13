@@ -24,7 +24,7 @@
 
 <h2 align="left">📌Mis Proyectos:</h2>
 
-<h3 align="left"> <a href="https://henryhealthy.shop/">E-commerce Healthy Food:</a></h3>
+<h3 align="left"> <a href="https://henryhealthy.shop/" target="_blank">E-commerce Healthy Food:</a></h3>
   
 <p align= "center">
   <img src="https://user-images.githubusercontent.com/102552376/203137693-e4a03856-6bf6-4191-a277-e666aedb3c24.jpg" alt="img not found" width="700"/>
