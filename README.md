@@ -1,6 +1,7 @@
 <p align= "center">
-  <img src="https://user-images.githubusercontent.com/102552376/203079896-90aa308b-6ad8-4bf8-ad20-55b93e0993e0.png" alt="img not found"/>
+  <img src="https://github.com/mcecisosa/mcecisosa/assets/102552376/10a7caeb-e141-420c-b0e1-03022f85af99" alt="img not found"/>
 </p>
+
 
 <h3 align="center">Hola! Soy Cecilia Sosa<h3>
 <h3 align="center">Soy Full Stack Web Developer e Ingeniera en Sistemas de Información.<h3>
