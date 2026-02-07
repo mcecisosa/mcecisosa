@@ -22,29 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcecisosa&show_icons=true&theme=radical&locale=en&layout=compact" alt="mcecisosa" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mcecisosa&show_icons=true&locale=en" alt="mcecisosa" /> </p>
 
- <h2 align="left">📌Mis Proyectos:</h2>
-
-<h3 align="left">Api Starwars Microservicios:</h3>  
-<h4 align="left"> <a href="http://34.27.208.115:8000/characters" target="_blank">Api Characters</a></h4>
-<h4 align="left"> <a href="http://34.27.208.115:8000/planets" target="_blank">Api Planets</a></h4>
-<h4 align="left"> <a href="http://34.27.208.115:8000/films" target="_blank">Api Films</a></h4>
-<p align= "center">
-  <img src="https://github.com/mcecisosa/mcecisosa/assets/102552376/5037c084-981d-4b53-9ebd-724b2f05505b" alt="img not found" width="700"/>
-  <img src="https://github.com/mcecisosa/mcecisosa/assets/102552376/af9a7d7b-7164-45bf-8903-a6600d263ca2" alt="img not found" width="700"/>
-</p>
-
-<h3 align="left"> <a href="https://henryhealthy.shop/" target="_blank">E-commerce Healthy Food:</a></h3>
-  
-<p align= "center">
-  <img src="https://user-images.githubusercontent.com/102552376/203137693-e4a03856-6bf6-4191-a277-e666aedb3c24.jpg" alt="img not found" width="700"/>
-  <img src="https://user-images.githubusercontent.com/102552376/203137811-8bb9cb16-9d95-49f3-899c-37cfce5b9618.jpg" alt="img not found" width="700"/>  
-</p>
-  
-<h3 align="left">Países y Actividades Turísticas:</h3>  
-<p align= "center">
-  <img src="https://user-images.githubusercontent.com/102552376/203134317-f4d4a693-cccd-40c1-95c8-8f7a798279cf.jpg" alt="img not found" width="700"/>
-  <img src="https://user-images.githubusercontent.com/102552376/203134393-99493023-d984-456f-a551-a46fbcf790eb.jpg" alt="img not found" width="700"/>
-  <img src="https://user-images.githubusercontent.com/102552376/203134423-b11ae952-f515-4596-b517-f41b7e1173ee.jpg" alt="img not found" width="700"/>
-</p>
-
  
