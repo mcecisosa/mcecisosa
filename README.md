@@ -13,7 +13,7 @@
   
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-sosa-56702b94/)
   
-  <a href="mailto:mceciliasosa@gmail.com" style:><img alt="Email" src="https://img.shields.io/badge/Email-mceciliasosa@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="mailto:ceciliasosadev@gmail.com" style:><img alt="Email" src="https://img.shields.io/badge/Email-ceciliasosadev@gmail.com-blue?style=flat&logo=gmail"></a>
  </p>
   
   <h2 align="left">Lenguajes y Herramientas:</h2>
