@@ -6,10 +6,13 @@
 <h3 align="center">Hola! Soy Cecilia Sosa<h3>
 <h3 align="center">Soy Backend Developer e Ingeniera en Sistemas de Información.<h3>
 <h4><h4>
-<p align="center">Apasionada por la programación y la tecnología desde siempre! Enfocada en soluciones escalables y de calidad, con aplicación de buenas prácticas y principios de diseño. Con conocimientos en frontend que aportan una visión integral del producto y facilitan el trabajo con equipos frontend y UX/UI<p>
+<p align="center">Enfocada en soluciones escalables y de calidad, con aplicación de buenas prácticas y principios de diseño<p>
 
-<p align="center">Perfil analítico y colaborativo, orientado al trabajo en equipo, la comunicación efectiva y el aprendizaje continuo.
-Me interesa participar en proyectos desafiantes donde pueda generar impacto, aportar valor al equipo y seguir creciendo a nivel profesional y personal.<p>
+<p align="center">Con conocimientos en frontend que aportan una visión integral del producto y facilitan el trabajo con equipos frontend y UX/UI<p>
+
+<p align="center">Perfil analítico y colaborativo, orientado al trabajo en equipo, la comunicación efectiva y el aprendizaje continuo.<p>
+
+<p align="center">Me interesa participar en proyectos desafiantes donde pueda generar impacto, aportar valor al equipo y seguir creciendo a nivel profesional y personal.<p>
 
   <h3 align="left">Me puedes contactar en:</h3>
 <p align="center">
